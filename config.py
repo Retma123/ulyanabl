@@ -1,5 +1,4 @@
-import os
-TOKEN = 'BOT_TOKEN' # bot token
+TOKEN = 'NjgwNzMzNjE0MjY2MTIyMzI1.XlbEGg._avqbcbUiNa0lL0cRl6pYXPF3QM' # bot token
 
 POST_ID = 680835521991540821 # post id to read reaxtions from
 
